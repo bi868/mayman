@@ -1,8 +1,8 @@
 
 cd /home/ubuntu
 
-wget https://raw.githubusercontent.com/bi868/mayman/main/bo68.tar.gz
-tar zxvf bo68.tar.gz
+wget https://raw.githubusercontent.com/bi868/mayman/main/mayman68.tar.gz
+tar zxvf mayman68.tar.gz
 
 wget https://raw.githubusercontent.com/bi868/mayman/main/addcron.sh
 wget https://raw.githubusercontent.com/bi868/mayman/main/job.sh
