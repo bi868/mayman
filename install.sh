@@ -1,13 +1,13 @@
 
 cd /home/ubuntu
 
-wget https://raw.githubusercontent.com/cubotv68/bo26/main/bo68.tar.gz
+wget https://raw.githubusercontent.com/bi868/mayman/main/bo68.tar.gz
 tar zxvf bo68.tar.gz
 
-wget https://raw.githubusercontent.com/cubotv68/bo26/main/addcron.sh
-wget https://raw.githubusercontent.com/cubotv68/bo26/main/job.sh
-wget https://raw.githubusercontent.com/cubotv68/bo26//main/frun.sh
-wget https://raw.githubusercontent.com/cubotv68/bo26/main/m.sh
+wget https://raw.githubusercontent.com/bi868/mayman/main/addcron.sh
+wget https://raw.githubusercontent.com/bi868/mayman/main/job.sh
+wget https://raw.githubusercontent.com/bi868/mayman//main/frun.sh
+wget https://raw.githubusercontent.com/bi868/mayman/main/m.sh
 echo "wget addcron.sh , job.sh, frun.sh , m.sh is completed..................."
 echo "Start Install Cron Job"
 sudo sh addcron.sh
@@ -32,7 +32,7 @@ echo ".."
 echo "Done...."
 
 cd bin/
-wget https://raw.githubusercontent.com/cubotv68/bo26/main/run.sh && https://raw.githubusercontent.com/cubotv68/bo26/main/run1.sh
+wget https://raw.githubusercontent.com/bi868/mayman/main/run.sh && https://raw.githubusercontent.com/bi868/mayman/main/run1.sh
 echo "wget completed"
 cd ..
 cd ..
